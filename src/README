@@ -1,0 +1,14 @@
+apue.tar.gz:  Advanced Programming in the UNIX Environment(Third Edition)
+	www.apuebook.com
+
+
+csapp.tar: Computer Systems -- A Programmer's Perspective(Second Edition)
+	csapp.cs.cmu.edu/public/code.html
+
+
+unpbook.tar.gz: UNIX Network Programming(Volume 1, Third Edition)
+	unpbook.com
+
+
+coreutils-8.23.tar.xz: GUN coreutils
+	ftp.gnu.org/gnu/coreutils/
