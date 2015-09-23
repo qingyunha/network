@@ -12,3 +12,7 @@ unpbook.tar.gz: UNIX Network Programming(Volume 1, Third Edition)
 
 coreutils-8.23.tar.xz: GUN coreutils
 	ftp.gnu.org/gnu/coreutils/
+
+
+rlogin.tar.gz: Rlogin is a remote shell client (like ssh) designed to be fast and small.
+	http://sourceforge.net/projects/rlogin/files/rlogin.tar.gz
